@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.michelnas13.twa",
+        "sha256_cert_fingerprints": ["C4:0F:85:D7:F3:3F:C7:AA:F2:D7:6F:0F:22:E7:D9:5A:B0:EE:09:66:F5:20:E3:02:CA:DF:98:8F:26:F2:7D:2E"]
+      }
+    }]
